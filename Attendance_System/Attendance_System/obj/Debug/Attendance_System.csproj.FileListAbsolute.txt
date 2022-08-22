@@ -1,0 +1,15 @@
+C:\Attendance_System\Attendance_System\Attendance_System\bin\Debug\Attendance_System.exe.config
+C:\Attendance_System\Attendance_System\Attendance_System\bin\Debug\Attendance_System.exe
+C:\Attendance_System\Attendance_System\Attendance_System\bin\Debug\Attendance_System.pdb
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.AssemblyReference.cache
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.SuggestedBindingRedirects.cache
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.Mainform.resources
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.Properties.Resources.resources
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.GenerateResource.cache
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.CoreCompileInputs.cache
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.exe
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.pdb
+C:\Attendance_System\Attendance_System\Attendance_System\bin\Debug\MetroFramework.dll
+C:\Attendance_System\Attendance_System\Attendance_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.Login.resources
+C:\Attendance_System\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.CopyComplete
